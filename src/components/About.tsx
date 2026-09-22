@@ -25,7 +25,7 @@ export default function About() {
                     <span className="text-white font-black text-2xl">R</span>
                   </div>
                   <div>
-                    <h3 className="text-2xl font-black text-white">RUBREX</h3>
+                    <h3 className="text-2xl font-black text-white">RUBREX PLUS</h3>
                     <p className="text-red-400 text-sm">Est. 1995</p>
                   </div>
                 </div>
@@ -58,7 +58,7 @@ export default function About() {
                     quality drives everything we do."
                   </p>
                   <p className="text-red-400 text-sm mt-2 font-medium">
-                    — Rubrex Quality Promise
+                    — RUBREX PLUS Quality Promise
                   </p>
                 </div>
               </div>
@@ -77,10 +77,10 @@ export default function About() {
             <h2 className="text-3xl md:text-4xl font-black text-gray-900 mb-6">
               South Africa's Trusted
               <br />
-              <span className="text-red-600">Automotive Parts</span> Brand
+              <span className="text-red-600">RUBREX PLUS</span> Brand
             </h2>
             <p className="text-gray-600 text-lg mb-6 leading-relaxed">
-              Rubrex has been at the forefront of the South African automotive
+              RUBREX PLUS has been at the forefront of the South African automotive
               aftermarket for over three decades. Proudly distributed by Kapico
               South Africa, we supply workshops nationwide with components that
               meet the highest international standards.

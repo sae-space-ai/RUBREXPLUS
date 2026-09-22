@@ -55,7 +55,7 @@ export default function Header({ scrolled }: HeaderProps) {
             </div>
             <div>
               <span className="text-2xl font-black tracking-tight text-gray-900">
-                RUB<span className="text-red-600">REX</span>
+                RUBREX <span className="text-red-600">PLUS</span>
               </span>
               <p className="text-[10px] text-gray-500 -mt-1 tracking-widest uppercase">
                 Premium Auto Parts

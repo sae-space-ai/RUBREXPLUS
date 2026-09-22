@@ -48,7 +48,7 @@ export default function Products() {
           </h2>
           <p className="text-gray-600 max-w-2xl mx-auto text-lg">
             Browse our selection of high-quality automotive components. All parts
-            come with Rubrex quality guarantee.
+            come with RUBREX PLUS quality guarantee.
           </p>
         </motion.div>
 

@@ -33,10 +33,10 @@ export default function Footer() {
         <div className="max-w-7xl mx-auto px-4 py-12 md:py-16 flex flex-col md:flex-row items-center justify-between gap-6">
           <div>
             <h3 className="text-2xl md:text-3xl font-black text-white mb-2">
-              Ready to Stock Rubrex?
+              Ready to Stock RUBREX PLUS?
             </h3>
             <p className="text-red-100 text-lg">
-              Join 500+ workshops across South Africa that trust Rubrex.
+              Join 500+ workshops across South Africa that trust RUBREX PLUS.
             </p>
           </div>
           <a
@@ -59,7 +59,7 @@ export default function Footer() {
               </div>
               <div>
                 <span className="text-2xl font-black tracking-tight text-white">
-                  RUB<span className="text-red-500">REX</span>
+                  RUBREX <span className="text-red-500">PLUS</span>
                 </span>
               </div>
             </div>
@@ -114,10 +114,15 @@ export default function Footer() {
       {/* Bottom bar */}
       <div className="border-t border-gray-800">
         <div className="max-w-7xl mx-auto px-4 py-6 flex flex-col md:flex-row items-center justify-between gap-4">
-          <p className="text-sm text-gray-500">
-            © {new Date().getFullYear()} Rubrex. All rights reserved. Distributed
-            by Kapico South Africa (Pty) Ltd.
-          </p>
+          <div className="text-center md:text-left">
+              <p className="text-sm text-gray-500">
+                © {new Date().getFullYear()} RUBREX PLUS. All rights reserved. Distributed
+                by Kapico South Africa (Pty) Ltd.
+              </p>
+              <p className="text-sm text-gray-400 mt-1">
+                Developed by <span className="font-semibold text-red-400">Prof. Manuel GAGO FERNÁNDEZ</span>
+              </p>
+            </div>
           <div className="flex items-center gap-6">
             <a href="#" className="text-sm text-gray-500 hover:text-gray-300 transition-colors">
               Privacy Policy

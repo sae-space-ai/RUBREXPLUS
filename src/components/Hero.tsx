@@ -48,7 +48,7 @@ export default function Hero() {
           </h1>
 
           <p className="text-lg text-gray-300 mb-8 max-w-lg leading-relaxed">
-            Rubrex delivers high-performance automotive components engineered for
+            RUBREX PLUS delivers high-performance automotive components engineered for
             reliability. From engine parts to brake systems, we provide South
             Africa's workshops with parts that exceed expectations.
           </p>
@@ -106,9 +106,9 @@ export default function Hero() {
             <div className="absolute inset-0 flex items-center justify-center">
               <div className="w-48 h-48 bg-gradient-to-br from-red-600 to-red-800 rounded-full flex items-center justify-center shadow-2xl shadow-red-600/30">
                 <div className="text-center">
-                  <div className="text-5xl font-black text-white">R</div>
+                  <div className="text-5xl font-black text-white">R+</div>
                   <div className="text-xs text-red-200 tracking-widest mt-1">
-                    RUBREX
+                    RUBREX PLUS
                   </div>
                 </div>
               </div>

@@ -64,7 +64,7 @@ export default function Features() {
             The Rubrex Advantage
           </h2>
           <p className="text-gray-600 max-w-2xl mx-auto text-lg">
-            We go beyond just supplying parts. Here's what makes Rubrex the
+            We go beyond just supplying parts. Here's what makes RUBREX PLUS the
             preferred choice for South African workshops.
           </p>
         </motion.div>

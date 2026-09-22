@@ -6,28 +6,28 @@ const testimonials = [
     name: 'Johan van der Merwe',
     role: 'Owner, Van der Merwe Motors',
     location: 'Johannesburg, GP',
-    text: "We've been using Rubrex parts for over 10 years. The quality is consistently excellent, and the pricing keeps our customers happy. Their brake components are some of the best in the market.",
+    text: "We've been using RUBREX PLUS parts for over 10 years. The quality is consistently excellent, and the pricing keeps our customers happy. Their brake components are some of the best in the market.",
     rating: 5,
   },
   {
     name: 'Thabo Molefe',
     role: 'Head Mechanic, Molefe Auto',
     location: 'Pretoria, GP',
-    text: "The technical support from Rubrex is outstanding. When I need help with fitment or compatibility, their team is always available. It makes my job so much easier.",
+    text: "The technical support from RUBREX PLUS is outstanding. When I need help with fitment or compatibility, their team is always available. It makes my job so much easier.",
     rating: 5,
   },
   {
     name: 'Sarah Botha',
     role: 'Workshop Manager, Botha & Sons',
     location: 'Cape Town, WC',
-    text: "Reliable delivery, quality parts, and fair prices. What more can you ask for? Rubrex has been our go-to supplier for filtration and engine parts. Highly recommended.",
+    text: "Reliable delivery, quality parts, and fair prices. What more can you ask for? RUBREX PLUS has been our go-to supplier for filtration and engine parts. Highly recommended.",
     rating: 5,
   },
   {
     name: 'Pieter Naidoo',
     role: 'Owner, QuickFix Garage',
     location: 'Durban, KZN',
-    text: "The range of products is impressive. From shock absorbers to ignition components, Rubrex covers everything I need. Their Kapico distribution network ensures I never wait long for parts.",
+    text: "The range of products is impressive. From shock absorbers to ignition components, RUBREX PLUS covers everything I need. Their Kapico distribution network ensures I never wait long for parts.",
     rating: 4,
   },
 ];
@@ -51,7 +51,7 @@ export default function Testimonials() {
           </h2>
           <p className="text-gray-600 max-w-2xl mx-auto text-lg">
             Don't just take our word for it. Here's what South Africa's top
-            mechanics and workshop owners say about Rubrex.
+            mechanics and workshop owners say about RUBREX PLUS.
           </p>
         </motion.div>
 
